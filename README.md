@@ -7,8 +7,8 @@
 - 🤔 &nbsp; A passionate programmer and a leaner, born and brought up in India.
 - 🎓 &nbsp; I successfully completed my Engineering with specialization in 'Computer Science And Engineering'.
 - 📚 &nbsp; I’m currently working as Data Engineer in Skuad.
-- 🌱 &nbsp; Learning more about Systems Design and new era tools andtechnology for Data Manipulation.
-- ✍️ &nbsp; Guide the student for new technologies.
+- 🌱 &nbsp; Learning more about Systems Design and new era tools and technology for Data Manipulation.
+- ✍️ &nbsp; Guide the students for new technologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -23,6 +23,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -54,6 +55,6 @@
 
 <p align="center">
 <a href="https://singhsunny0712.github.io/MyPortFolio/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-www.sunnysingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sunny-singh-80434512b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sunny-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sunny-singh-80434512b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunny%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:singhsunny0712@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhsunny0712@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
